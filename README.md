@@ -1,4 +1,4 @@
 Nim-Game
 ========
 
-This includes classes to play the Nim Game.
+This is code to play the game Nim.
